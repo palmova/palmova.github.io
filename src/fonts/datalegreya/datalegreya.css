@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Datalegreya-Thin';
+    src: url('Datalegreya-Thin.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Datalegreya-Gradient';
+    src: url('Datalegreya-Gradient.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Datalegreya-Dot';
+    src: url('Datalegreya-Dot.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
